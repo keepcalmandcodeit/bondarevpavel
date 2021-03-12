@@ -1,0 +1,22 @@
+header {
+    text-align: center;
+}
+header h1, h2 {
+    background-color: rgb(202, 235, 218);
+
+}
+body {
+    background-color:rgb(234, 241, 240);
+}
+    footer a {
+        color: rgb(0, 71, 49);
+    }
+    footer h4 {
+        color: rgb(0, 71, 49)
+    }
+    footer h3 {
+        color: rgb(0, 71, 49)
+    }
+    h1, h2 {
+        color: rgb(0, 71, 49)
+    }
